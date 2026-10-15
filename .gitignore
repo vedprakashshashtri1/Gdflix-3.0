@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.log
+data.json
+data.json.migrated
+*.session
+*.session-journal
+*dump.json
+test_*.jpg
+
+.streamlit/secrets.toml

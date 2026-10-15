@@ -1,0 +1,16 @@
+python-telegram-bot[job-queue]==22.8
+aiohttp
+langcodes[data]
+google-api-python-client
+motor
+cachetools
+pyrofork
+httpx
+curl_cffi
+TgCrypto
+beautifulsoup4
+opencv-python-headless
+av
+Pillow
+APScheduler
+streamlit
